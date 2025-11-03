@@ -14,5 +14,4 @@ int main(void)
     while(true) {
         i++;
     }
-	return 0;
 }
